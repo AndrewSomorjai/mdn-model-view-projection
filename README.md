@@ -12,7 +12,7 @@ Divide by W             | [JSFiddle](https://jsfiddle.net/tatumcreative/vk9r8h2c
 Simple Projection       | [JSFiddle](https://jsfiddle.net/tatumcreative/zwyLLcbw/) | [05-simple-projection](lessons/05-simple-projection)             | 15 min |
 Perspective Matrix      | [JSFiddle](https://jsfiddle.net/tatumcreative/Lzxw7e1q/) | [06-perspective-matrix](lessons/06-perspective-matrix)           | 15 min |
 View Matrix             | [JSFiddle](https://jsfiddle.net/tatumcreative/86fd797g/) | [07-view-matrix](lessons/07-view-matrix)                         | 15 min |
-Simple Camera           |.[JSFiddle].(https://jsfiddle.net/2x03hdc8/160/)          |.[08-Simple-Camera].(lessons/Simple Camera) | ?min |
+Simple Camera           |[JSFiddle](https://jsfiddle.net/2x03hdc8/160/)          | [08-Simple-Camera](lessons/Simple Camera) | ?min |
 
 ## Getting started (10 min)
 
