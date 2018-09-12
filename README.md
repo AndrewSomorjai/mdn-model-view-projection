@@ -13,6 +13,8 @@ Simple Projection       | [JSFiddle](https://jsfiddle.net/tatumcreative/zwyLLcbw
 Perspective Matrix      | [JSFiddle](https://jsfiddle.net/tatumcreative/Lzxw7e1q/) | [06-perspective-matrix](lessons/06-perspective-matrix)           | 15 min |
 View Matrix             | [JSFiddle](https://jsfiddle.net/tatumcreative/86fd797g/) | [07-view-matrix](lessons/07-view-matrix)                         | 15 min |
 
+Simple Camera          Added on 9/12/2018. A standalone html file demo for mouse and keyboard arrow input to move a camera.
+
 ## Getting started (10 min)
 
 The lessons can either be worked online from JSFiddle, or downloaded and explored locally. The content of the lessons is mixed in with the code. The `script.js` files contain most of the lesson, while the `index.html` contains the HTML and shader code. To download these files either [grab the zip file](https://github.com/TatumCreative/mdn-model-view-projection/archive/master.zip) or run `git clone git@github.com:TatumCreative/mdn-model-view-projection.git` from the command line.
